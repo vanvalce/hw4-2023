@@ -148,7 +148,7 @@ first div in the grid  and place it in the grid. */
 
 .container>div:first-of-type {
   grid-column: 1/span all;
-  background-image: url("/images/header.jpg");
+  background-image: url("images/header.jpg");
   background-attachment: scroll;
   background-position: center;
   background-repeat: no-repeat;
